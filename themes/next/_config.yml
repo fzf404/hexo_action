@@ -179,6 +179,7 @@ site_state: true
 social:
   GitHub: https://github.com/fzf404 || fab fa-github
   E-Mail: mailto:nmdfzf404@163.com || fa fa-envelope
+  Home: https://fzf404.top || fas fa-home
   #ZhiHu: https://www.zhihu.com/people/fzf-78 || fab fa-zhihu
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
