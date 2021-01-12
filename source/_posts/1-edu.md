@@ -294,5 +294,3 @@ Education is not a preparation for life but life itself.
 2019.1.22
 
 fzf
-
-  
