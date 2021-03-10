@@ -106,3 +106,6 @@ deploy:
   type: git
   repo: git@github.com:fzf404/fzf404.github.io.git
   master: master
+
+Plugins: 
+- hexo-generate-feed
